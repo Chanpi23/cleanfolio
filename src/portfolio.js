@@ -7,7 +7,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Chandrika Dawkins',
-  role: 'Front End Engineer',
+  role: 'Full Stack Developer ',
   description:
     'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
   resume: 'https://docs.google.com/document/d/e/2PACX-1vSS7wXhXkv42UPXC2aWF5E2qa3owA4PAtdwWx1vRwvWoIQsLPIDvGgYXFXl1ZRz5Oolk_CBbRIx5utl/pub',
