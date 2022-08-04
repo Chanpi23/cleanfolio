@@ -31,7 +31,7 @@ const projects = [
   {
     name: 'Gganbu',
     description:
-      'In this game you are tasked with betting a number of marbles that your opponent can/t see. Your opponent will guess if the number of marbles you/ve chosen is odd or even. If the guess is correct, your opponent wins the marbles you bet. If the guess is not correct, you win the round! Worked within a group to create game',
+      'In this game you are tasked with betting a number of marbles that your opponent can/t see. Your opponent will guess if the number of marbles you/ve chosen is odd or even. If the guess is correct, your opponent wins the marbles you bet. If the guess is not correct, you win the round! ',
     stack: ['HTML', 'JavaScript', 'CSS','Node/Express'],
     sourceCode: 'https://github.com/sharonmuwonge/Gganbu',
     livePreview: 'https://github.com',
