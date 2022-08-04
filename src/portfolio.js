@@ -21,19 +21,19 @@ const projects = [
   // projects can be added an removed
   // if there are no projects, Projects section won't show up
   {
-    name: 'Project 1',
+    name: 'Snake Game',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
-    livePreview: 'https://github.com',
+      'Throw back to the popular Nokia cellphone game from the late 90/s ',
+    stack: ['HTML', 'CSS', 'JavaScript'],
+    sourceCode: 'https://github.com/Chanpi23/snake-game-',
+    livePreview: 'https://channycodez-snakegame.netlify.app',
   },
   {
-    name: 'Project 2',
+    name: 'Gganbu',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-    stack: ['SASS', 'TypeScript', 'React'],
-    sourceCode: 'https://github.com',
+      'In this game you are tasked with betting a number of marbles that your opponent can/t see. Your opponent will guess if the number of marbles you/ve chosen is odd or even. If the guess is correct, your opponent wins the marbles you bet. If the guess is not correct, you win the round! Worked within a group to create game',
+    stack: ['HTML', 'JavaScript', 'CSS','Node/Express'],
+    sourceCode: 'https://github.com/sharonmuwonge/Gganbu',
     livePreview: 'https://github.com',
   },
   {
