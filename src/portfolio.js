@@ -9,7 +9,7 @@ const about = {
   name: 'Chandrika D',
   role: 'Full Stack Developer ',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
+    'Welcome to my portfolio, I am Chandrika D the ',
   resume: 'https://docs.google.com/document/d/e/2PACX-1vSS7wXhXkv42UPXC2aWF5E2qa3owA4PAtdwWx1vRwvWoIQsLPIDvGgYXFXl1ZRz5Oolk_CBbRIx5utl/pub',
   social: {
     linkedin: 'www.linkedin.com/in/chandrika-cd',
