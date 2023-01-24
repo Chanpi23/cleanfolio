@@ -10,7 +10,7 @@ const about = {
   role: 'Full Stack Developer ',
   description:
     'Welcome to my portfolio, I am Chandrika Dawkins ',
-  resume: 'https://docs.google.com/document/d/e/2PACX-1vSS7wXhXkv42UPXC2aWF5E2qa3owA4PAtdwWx1vRwvWoIQsLPIDvGgYXFXl1ZRz5Oolk_CBbRIx5utl/pub',
+  resume: 'https://drive.google.com/file/d/11K44dX9zFD8oN2JkPPwVjnyaFZz-X-Rq/view?usp=share_link',
   social: {
     linkedin: 'www.linkedin.com/in/chandrika-cd',
     github: 'https://github.com/Chanpi23',
