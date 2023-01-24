@@ -9,7 +9,7 @@ const about = {
   name: 'Chandrika D',
   role: 'Full Stack Developer ',
   description:
-    'Welcome to my portfolio, I am ChannyCodez  I am a self taught Full-Stack Developer.  Check out   my latest projects. ',
+    'Welcome to my portfolio, I am ChannyCodez  I am a self taught Full-Stack Developer.  Check out   my latest projects below  ',
   resume: 'https://drive.google.com/file/d/11K44dX9zFD8oN2JkPPwVjnyaFZz-X-Rq/view?usp=share_link',
   social: {
     linkedin: 'www.linkedin.com/in/chandrika-cd',
